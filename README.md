@@ -14,11 +14,12 @@ build a Logistic Regression model with features & predict the datapoint.
 the first few lines are:
 
 n=int(input());
+
 X=[];
 
 for i in range(n):
 
-  X.append([float(x) for x in input().split()]);
+   X.append([float(x) for x in input().split()]);
   
 y=[int(x) for x in input().split()];
 
