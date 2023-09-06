@@ -1,6 +1,5 @@
 # Bob-the-Builder
 Using Machine Learning/ Logistic Regression
-
  
 Hi; I'm Parisa Haji Ahmadi; A Math enthusiast.
 
